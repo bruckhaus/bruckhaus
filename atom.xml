@@ -4,7 +4,7 @@
   <title><![CDATA[Tillirix Blog]]></title>
   <link href="http://bruckhaus.github.io//github/atom.xml" rel="self"/>
   <link href="http://bruckhaus.github.io//github/"/>
-  <updated>2013-09-14T16:33:59-07:00</updated>
+  <updated>2013-09-14T16:39:14-07:00</updated>
   <id>http://bruckhaus.github.io//github/</id>
   <author>
     <name><![CDATA[Tilmann Bruckhaus]]></name>
@@ -12,5 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test Post]]></title>
+    <link href="http://bruckhaus.github.io//github/blog/2013/09/14/test-post/"/>
+    <updated>2013-09-14T16:37:00-07:00</updated>
+    <id>http://bruckhaus.github.io//github/blog/2013/09/14/test-post</id>
+    <content type="html"><![CDATA[<h2>New Blog Test Post</h2>
+
+<p>Here is a test post for the new blog.</p>
+]]></content>
+  </entry>
   
 </feed>
