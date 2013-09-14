@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://bruckhaus.github.io//github/sitemap.xml 
+Sitemap: http://bruckhaus.github.io/sitemap.xml 
