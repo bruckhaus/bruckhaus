@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Tillirix Blog]]></title>
-  <link href="http://bruckhaus.github.io/atom.xml" rel="self"/>
-  <link href="http://bruckhaus.github.io/"/>
-  <updated>2013-09-14T16:31:51-07:00</updated>
-  <id>http://bruckhaus.github.io/</id>
+  <link href="http://bruckhaus.github.io//github/atom.xml" rel="self"/>
+  <link href="http://bruckhaus.github.io//github/"/>
+  <updated>2013-09-14T16:33:59-07:00</updated>
+  <id>http://bruckhaus.github.io//github/</id>
   <author>
     <name><![CDATA[Tilmann Bruckhaus]]></name>
     <email><![CDATA[Tilmann.Bruckhaus@gmail.com]]></email>
